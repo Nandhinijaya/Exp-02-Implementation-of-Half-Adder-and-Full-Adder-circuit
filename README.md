@@ -56,5 +56,12 @@ RTL realization
 
 
 ### TRUTH TABLE 
+![hatt](https://user-images.githubusercontent.com/121998147/215261277-70527a41-5408-468e-b5a4-f8cf9b099f9f.png)
+
+
+
+![fatt](https://user-images.githubusercontent.com/121998147/215261287-c532cec9-f5b7-4303-a01b-fbfe6e762063.png)
+
 
 ### Result:
+Thus the Half adder and Fulladder are verified.
